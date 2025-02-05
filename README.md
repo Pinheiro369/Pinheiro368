@@ -13,4 +13,7 @@ Um jovem apaixonado por **filosofia e tecnologia**, sempre em busca de **conheci
 
 ## 📊 Estatísticas do GitHub  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pinheiro369&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinheiro369&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinheiro369&layout=compact&theme=radical)  
+
+## 📩 Contato  
+📧 **E-mail:** pinheirodev369@gmail.com
