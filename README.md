@@ -1,19 +1,18 @@
-# 🧠 Sobre Mim  
-Um jovem apaixonado por **filosofia e tecnologia**, sempre em busca de **conhecimento e inovação**. Explorando novas áreas e desafios para expandir minhas habilidades.  
+# 🚀 Desenvolvimento com Inteligência Artificial  
 
-## 📚 Formação  
-🎓 **Cursando o 1º ano do Ensino Médio**  
+Todos os repositórios desta conta foram desenvolvidos com o auxílio de **Inteligência Artificial** 🤖, com o objetivo de criar ferramentas inovadoras e automatizar processos. Cada projeto aqui reflete experimentações avançadas e o uso estratégico de I.A. para otimizar o desenvolvimento.  
 
-## 🤖 Interesse  
-💡 **Apaixonado pela inovação de IAs**, sempre explorando novas ideias e avanços na área.  
+🔗 **Para projetos em grande escala e ferramentas mais robustas, acesse minha conta principal:**  
+[@Arceus-Galaxy](https://github.com/Arceus-Galaxy) 🌌  
 
-## 🛠️ Habilidades  
-- **Plenitude Hacking Py (Redes)** – Aprimorando conhecimentos em segurança e redes.  
-- **Estudando C++** – Aprendendo a linguagem e desenvolvendo projetos diversos, incluindo **cheats, sistemas e redes**.  
+Lá, você encontrará uma ampla variedade de projetos, desde sistemas automatizados até soluções avançadas para diferentes áreas da tecnologia.  
 
-## 📊 Estatísticas do GitHub  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pinheiro369&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinheiro369&layout=compact&theme=radical)  
+## 📊 Estatísticas da minha conta principal  
 
-## 📩 Contato  
-📧 **E-mail:** pinheirodev369@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arceus-Galaxy&show_icons=true&theme=radical)  
+
+## 📈 Linguagens mais utilizadas  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arceus-Galaxy&layout=compact&theme=radical)  
+
+Se você se interessa por desenvolvimento avançado, automação e inteligência artificial, siga meus projetos e acompanhe as novidades! 🚀💡
